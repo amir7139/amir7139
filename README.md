@@ -2,5 +2,5 @@
 - 👀 I’m interested in python  ...
 - 🌱 I’m currently learning python...
 - 📫 How to reach me ...amirhosein.asadvandi@gmail.com
-- @shitspirit in telegram
-- {amirhossein.asadvandi} in instagram
+- @shitspirit on telegram
+- {amirhossein.asadvandi} on instagram
