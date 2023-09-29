@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning python...
 - 📫 How to reach me ...amirhosein.asadvandi@gmail.com
 - @shitspirit on telegram
-- {amirhossein.asadvandi} on instagram
+- {amirhosein.asadvandi} on instagram
